@@ -1,0 +1,38 @@
+Okay so since I did this on my main desktop, when I'm ready to move it to my laptop I have to remember to:
+
+1. Open the pngs and files and what not
+
+2. REDOWNLOAD javafx on my laptop and make sure to put the following line of code (with the correct file path ofcourse) also right click resources < build path < use as source
+
+3. Maybe I will have to reinstall javaSE-22? or I also installed jdk22.0.2 from oracle from my program files so maybe I will have to install that on my laptop?
+
+4. After looking through files of other players games I realized I could have set up a package for sound and make a public final class for SFX that made
+	the values strings so like MENU = "\menu.mp3" or whatever but I ran out of time could be something I do in the future for fun and to better organize code
+	the real goal is to just make mods for this actual game
+	
+5. I made it so the main thing is actually the SplashScreen instead of Main.java but whateves
+	
+	
+	
+**Game TO-DOs:**
+
+
+- Player death screen fix UI
+- 3 Items (1 for 2x damage tears (change color), 1 for further range (1.5x pixel distance or you can just do bigger tears, or can do size up on the player literally infinite choices, I can also make it that upon enemy death, 1/4 chance to get a heart on death)
+- 5+ Rooms (3 item room with 1 pedastols (1 for bigger tears, 1 for quicker tears or 2x damage tears or something), 1 spawn room with nothing, 1 boss room, and 2+ normal fighting rooms with enemies)
+- constantly updating map of the rooms in the top left
+- Make it so isaac's image changes as he turns left right up down
+- Add ALL sound fx that I don't currently have (item picked up, enemy sounds, tear shoot, tear land, )
+- FIX the sizing of the game based on the device that they are playing on!!! Just tried this on my laptop and size is off
+- Volume mixing 
+- Comment and cleanup/organize code (structure, unnecessary pieces, unused headers)
+
+- If it's forced, make it so the user can choose their name and ill have to find a way to make that useful
+
+
+Too little time but would be very cool:
+- creating several floors to beat
+- room randomization
+- item randomization
+- genuine animations, as in smooth transitions between screens and menus and sprites and stuff
+- Options menu functionality
